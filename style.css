@@ -1,0 +1,103 @@
+/* <!-- ------------------------------------------Image-Element--------------------------------------------------- --> */
+
+/* div {
+
+    text-align: center;
+} */
+
+/* <!-- ------------------------------------------vertical-align-Element--------------------------------------------------- --> */
+
+/* .head_1 {
+
+    vertical-align: baseline;
+}
+
+.head_2 {
+
+    vertical-align: baseline;
+}
+
+span {
+
+    vertical-align: text-top;
+    font-size: 8px;
+} */
+
+/* <!-- ------------------------------------------Indent-Element--------------------------------------------------- --> */
+
+/* p {
+
+    text-indent: 150px;
+} */
+
+/* <!-- ------------------------------------------Text-Shadow-Element--------------------------------------------------- --> */
+
+/* h1 {
+
+    text-shadow: -3px -3px 9px red;
+    font-size: 5rem;
+    
+}
+
+h2 {
+
+    text-shadow: -3px -3px red;
+    font-size: 5rem;
+
+} */
+
+ /* <!-- ------------------------------------------Pesudo-Element--------------------------------------------------- --> */
+
+/* .head_1:hover {
+
+    color: #ff0000;
+}
+
+a:link {
+
+    color: #ff0000;
+}
+
+a:visited {
+
+    color: #008000;
+}
+
+.active:active {
+
+    color: blue;
+}
+
+.focus_1:focus {
+
+    background-color: #008000;
+
+}
+
+.head_2 {
+
+    color: #ff0000;
+}
+
+.para_2:first-letter {
+
+    color: #ff0000;
+    font-size: 6rem;
+}
+
+.head_3 {
+
+    color: #0000ff;
+
+}
+
+.para_3:first-line {
+
+    color: #0000ff;
+} */
+
+
+ /* <!-- ------------------------------------------Attributes-Selector--------------------------------------------------- --> */
+
+
+
